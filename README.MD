@@ -1,6 +1,6 @@
 # Introduction
 
-BTMovie is a demonstration DApp which combines BTFS with the TRON blockchain. Using the existing [IPFS JS SDK](https://github.com/ipfs/js-ipfs-http-client), developers can create their own decentralized applications leveraging a file storage and sharing solution.    
+BTFSDemo is a demonstration DApp which combines BTFS with the TRON blockchain. Using the existing [IPFS JS SDK](https://github.com/ipfs/js-ipfs-http-client), developers can create their own decentralized applications leveraging a file storage and sharing solution.    
 
 
 # Usage
